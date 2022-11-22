@@ -43,12 +43,6 @@
           <a class="nav-link active"  aria-current="page" href="home.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active"  aria-current="page" href="about.php">about</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active "  aria-current="page" href="contact.php">Contact</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link active "  aria-current="page" href="create account.php">Create Account</a>
         </li>
         <li class="nav-item">
