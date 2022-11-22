@@ -9,7 +9,7 @@
         <style>
           
           .cont{
-            background:url("https://scontent.fbek1-3.fna.fbcdn.net/v/t1.6435-9/175863727_1816210658561020_428513847055516211_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=8E1S_GlkcfgAX-Zc1aU&_nc_ht=scontent.fbek1-3.fna&oh=00_AT89Ts911f5Yepa3LHkgww4M6-R8NnSGIPOyQ5WNJDzZyQ&oe=63551FBB")no-repeat center center fixed;
+            background-color: #242b64;
             width:100%;
             
           }
