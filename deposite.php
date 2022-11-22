@@ -8,7 +8,7 @@
         crossorigin="anonymous"></script>
         <style>
             .cont{
-              background:linear-gradient(#242b64,white);
+              background:linear-gradient(#242b64,white); 
                 height:550px;
             }
             .form-control{
